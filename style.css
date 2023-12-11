@@ -2,5 +2,6 @@
     background-color: red;
 }
 .header {
-    background-color: green;
+    background-color: gray;
+    padding: 10px;
 }
